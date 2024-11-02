@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RG\\source\\repos\\learning\\20241031 C\\20241011 C for Everyone\\Module1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E068E1E-4529-4CBA-A7F0-1B696C3C7EC1}|Module1\\Module1.vcxproj|C:\\Users\\RG\\source\\repos\\learning\\20241031 C\\20241011 C for Everyone\\Module1\\Module1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E068E1E-4529-4CBA-A7F0-1B696C3C7EC1}|Module1\\Module1.vcxproj|solutionrelative:Module1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\RG\\source\\repos\\learning\\20241031 C\\20241011 C for Everyone\\Module1\\Module1\\main.c",
+              "RelativeDocumentMoniker": "Module1\\main.c",
+              "ToolTip": "C:\\Users\\RG\\source\\repos\\learning\\20241031 C\\20241011 C for Everyone\\Module1\\Module1\\main.c",
+              "RelativeToolTip": "Module1\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-31T10:27:43.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
