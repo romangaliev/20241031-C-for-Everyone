@@ -1,0 +1,12 @@
+15)
+This is brilliant because every time the new item added, the calculation doesn't start from the beginning but only updates the result to count in the additional item. This way we save a computing power because we do not count the average from the beginning. 
+
+16) 
+This algorythm is better because if we would use the native, we would go out of number size limit when calculating the sum.
+
+17)
+I don't see any numbers cobination which would make different results for Ordinary Average Calculation
+and Running Average Calculation without overflow. 
+But I'm very curion to know if there are such options and what are they.
+
+Super useful tasks! Thanks!
