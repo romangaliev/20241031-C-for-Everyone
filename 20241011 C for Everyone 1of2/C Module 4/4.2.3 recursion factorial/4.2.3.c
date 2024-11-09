@@ -49,15 +49,53 @@ return f;
 }//long int recursive_factorial_up(int n)
 //////////////////////////////////////////////////
 
+//////////////////////////////////////////////////
+// recursive factorial function upwards using static
+long int recursive_factorial_up_static(int n)
+	// second parameter is required to stop iterations
+{ 
+	long f=0;
+	static int limit = 0;
+
+	if (n == 1 ) return 1; // in case initial n == 1
+
+	
+
+	if ((n > 1)&&(limit == 0)) // only first entry to remember the limit
+	{
+	limit = n; // limit fixed at first entry
+	n = 1; // dropping the initial value to start normal recursion
+	}
+
+	if (n == limit) // all other entries
+	{
+		printf("n == limit. Last Return = n = %d\n", n);
+		return n; 
+	}
+
+
+	printf("entered static recursion: n = %d, limit = %d\n", n, limit);
+	
+	printf("f1 = %d\n", f);
+	f = n*recursive_factorial_up_static((n+1)); //the "f" will get calculated after limit is reached
+	
+	printf("f2 = %d\n", f);
+
+return f;
+}//long int recursive_factorial_up_static(int n)
+//////////////////////////////////////////////////
+
+
 int main(void)
 {
-	int n = 10; // hard coded number of iterations
+	int n = 5; // hard coded number of iterations
 	printf("n    standard     recursive\n");
-	printf("%d \t %d\t %d\t %d\n", 
+	printf("%d \t %d\t %d\t %d\t %d\n", 
 		n, 
 		factorial(n), 
 		recursive_factorial_down(n),
-		recursive_factorial_up(n, 1));
+		recursive_factorial_up(n, 1),
+		recursive_factorial_up_static(n));
 	
 }//int main(void)
 
