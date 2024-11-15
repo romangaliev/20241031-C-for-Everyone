@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.1.5 pointer code example"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.1.7 array as a parameter", "5.1.7 array as a parameter\5.1.7 array as a parameter.vcxproj", "{EAA7EB3C-F159-4E0D-8A43-5C04073289CD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.1.8 array-bubble-sort", "5.1.8 array-bubble-sort\5.1.8 array-bubble-sort.vcxproj", "{1D22CECE-D69F-4312-96F9-70FA67C31965}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{EAA7EB3C-F159-4E0D-8A43-5C04073289CD}.Release|x64.Build.0 = Release|x64
 		{EAA7EB3C-F159-4E0D-8A43-5C04073289CD}.Release|x86.ActiveCfg = Release|Win32
 		{EAA7EB3C-F159-4E0D-8A43-5C04073289CD}.Release|x86.Build.0 = Release|Win32
+		{1D22CECE-D69F-4312-96F9-70FA67C31965}.Debug|x64.ActiveCfg = Debug|x64
+		{1D22CECE-D69F-4312-96F9-70FA67C31965}.Debug|x64.Build.0 = Debug|x64
+		{1D22CECE-D69F-4312-96F9-70FA67C31965}.Debug|x86.ActiveCfg = Debug|Win32
+		{1D22CECE-D69F-4312-96F9-70FA67C31965}.Debug|x86.Build.0 = Debug|Win32
+		{1D22CECE-D69F-4312-96F9-70FA67C31965}.Release|x64.ActiveCfg = Release|x64
+		{1D22CECE-D69F-4312-96F9-70FA67C31965}.Release|x64.Build.0 = Release|x64
+		{1D22CECE-D69F-4312-96F9-70FA67C31965}.Release|x86.ActiveCfg = Release|Win32
+		{1D22CECE-D69F-4312-96F9-70FA67C31965}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
