@@ -6,6 +6,10 @@ here we also assume that a and b are ordered by themselves!!!
 
 in fact this merge funcrion is a helper function
 to the merge_sort function from next lesson
+
+here is a full algo example
+#IT Learn Merge Sort in 13 minutes (code in java)
+https://www.youtube.com/watch?v=3j0SWDX4AtU
 */
 #include <stdio.h>
 

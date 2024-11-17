@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.1.8 array-bubble-sort", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.1.10 MergeSort code 1", "5.1.10 MergeSort code 1\5.1.10 MergeSort code 1.vcxproj", "{F7E30152-879E-4839-A59F-F66128540C32}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.1.11 MergeSort code 2", "5.1.11 MergeSort code 2\5.1.11 MergeSort code 2.vcxproj", "{6E9C7343-C225-4536-9C28-C6D29BA98D46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{F7E30152-879E-4839-A59F-F66128540C32}.Release|x64.Build.0 = Release|x64
 		{F7E30152-879E-4839-A59F-F66128540C32}.Release|x86.ActiveCfg = Release|Win32
 		{F7E30152-879E-4839-A59F-F66128540C32}.Release|x86.Build.0 = Release|Win32
+		{6E9C7343-C225-4536-9C28-C6D29BA98D46}.Debug|x64.ActiveCfg = Debug|x64
+		{6E9C7343-C225-4536-9C28-C6D29BA98D46}.Debug|x64.Build.0 = Debug|x64
+		{6E9C7343-C225-4536-9C28-C6D29BA98D46}.Debug|x86.ActiveCfg = Debug|Win32
+		{6E9C7343-C225-4536-9C28-C6D29BA98D46}.Debug|x86.Build.0 = Debug|Win32
+		{6E9C7343-C225-4536-9C28-C6D29BA98D46}.Release|x64.ActiveCfg = Release|x64
+		{6E9C7343-C225-4536-9C28-C6D29BA98D46}.Release|x64.Build.0 = Release|x64
+		{6E9C7343-C225-4536-9C28-C6D29BA98D46}.Release|x86.ActiveCfg = Release|Win32
+		{6E9C7343-C225-4536-9C28-C6D29BA98D46}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
