@@ -1,3 +1,19 @@
+https://www.coursera.org/learn/c-for-everyone
+"C for Everyone: Programming Fundamentals"
+this is part 1 of 2 parts of the "C for Everyone"
+
+and 1 of 4 parts of 
+"Coding for Everyone: C and C++ Specialization"
+https://www.coursera.org/specializations/coding-for-everyone
+///////
+Link to the sharable certificate ( grades are not public) 
+https://coursera.org/share/917e71de1c1355e1667261fd1aae20f5
+Grade Achieved: 95.76%
+https://www.coursera.org/verify/CVES0ROUCXWW
+->
+https://www.coursera.org/account/accomplishments/verify/CVES0ROUCXWW
+
+///////////////////////
 С помощью .gitignore Исключиl папку .vs из комита, так как она тяжёлая
 ==========
 1) каждый новый .С файл добавляем путем добавления нового проекта к солюшину
