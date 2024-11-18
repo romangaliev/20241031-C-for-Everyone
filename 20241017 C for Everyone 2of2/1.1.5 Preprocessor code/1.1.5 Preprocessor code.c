@@ -1,4 +1,5 @@
 //use of macros
+// gcc -E filename.c // shows the extraction of preprocessor definitions
 
 #include <stdio.h>
 #include <stdlib.h>
