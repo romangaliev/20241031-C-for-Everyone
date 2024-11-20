@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1b78cc9d-f837-4463-9c87-2e604561a3d2}</ProjectGuid>
-    <RootNamespace>_2_2_2_peer_graded_struct</RootNamespace>
+    <ProjectGuid>{ab5a6f2a-eed3-4204-92ca-3bc1c984c744}</ProjectGuid>
+    <RootNamespace>_2_2_3_1_struct_peers_review_1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="struct.c" />
+    <ClCompile Include="5.1.3 Array Code.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

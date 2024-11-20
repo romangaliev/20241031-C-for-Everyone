@@ -106,18 +106,18 @@
 
 //////////////////////
 ////q10
-struct point {
-	double x;
-	double y;
-} p1 = {4, p1.x}; // error E0028	expression must have a constant value
-					// bases on error I answeared "NULL" and it was INCORRECT
-					// most likelly the wnswear is 4
-int main()
-{
-	struct point* ptr = &p1;
-
-	printf("value of ptr->y  is: %f", ptr->y); // 2.500000
-	return 0;
-}
+//struct point {
+//	double x;
+//	double y;
+//} p1 = {4, p1.x}; // error E0028	expression must have a constant value
+//					// bases on error I answeared "NULL" and it was INCORRECT
+//					// most likelly the wnswear is 4
+//int main()
+//{
+//	struct point* ptr = &p1;
+//
+//	printf("value of ptr->y  is: %f", ptr->y); // 2.500000
+//	return 0;
+//}
 
 //////////////////////////

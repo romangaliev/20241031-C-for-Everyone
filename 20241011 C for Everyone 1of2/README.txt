@@ -41,3 +41,6 @@ git push origin master
 ===
 Удаление последнего неправильного комита (файлы исходников не удаляются, только комит)
 git reset HEAD~1
+
+===
+#define _CRT_SECURE_NO_WARNINGS // to avoid windows specific requirement to use printf_s instead of printf etc
