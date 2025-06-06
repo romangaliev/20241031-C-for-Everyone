@@ -1,1 +1,15 @@
-﻿
+﻿  2.3 Honors Seven-Card Stud.c
+C:\Users\RG\source\repos\learning\20241031 C\C for Everyone\20241017 C for Everyone 2of2\2.3 Honors TODO\2.3 Honors Seven-Card Stud.c(151,25): warning C4047: 'function': 'const int *' differs in levels of indirection from 'int (*)[14]'
+C:\Users\RG\source\repos\learning\20241031 C\C for Everyone\20241017 C for Everyone 2of2\2.3 Honors TODO\2.3 Honors Seven-Card Stud.c(151,25): warning C4024: 'royal_flush_in_suit': different types for formal and actual parameter 1
+C:\Users\RG\source\repos\learning\20241031 C\C for Everyone\20241017 C for Everyone 2of2\2.3 Honors TODO\2.3 Honors Seven-Card Stud.c(152,25): warning C4047: 'function': 'const int *' differs in levels of indirection from 'int (*)[14]'
+C:\Users\RG\source\repos\learning\20241031 C\C for Everyone\20241017 C for Everyone 2of2\2.3 Honors TODO\2.3 Honors Seven-Card Stud.c(152,25): warning C4024: 'royal_flush_in_suit': different types for formal and actual parameter 1
+C:\Users\RG\source\repos\learning\20241031 C\C for Everyone\20241017 C for Everyone 2of2\2.3 Honors TODO\2.3 Honors Seven-Card Stud.c(153,25): warning C4047: 'function': 'const int *' differs in levels of indirection from 'int (*)[14]'
+C:\Users\RG\source\repos\learning\20241031 C\C for Everyone\20241017 C for Everyone 2of2\2.3 Honors TODO\2.3 Honors Seven-Card Stud.c(153,25): warning C4024: 'royal_flush_in_suit': different types for formal and actual parameter 1
+C:\Users\RG\source\repos\learning\20241031 C\C for Everyone\20241017 C for Everyone 2of2\2.3 Honors TODO\2.3 Honors Seven-Card Stud.c(154,25): warning C4047: 'function': 'const int *' differs in levels of indirection from 'int (*)[14]'
+C:\Users\RG\source\repos\learning\20241031 C\C for Everyone\20241017 C for Everyone 2of2\2.3 Honors TODO\2.3 Honors Seven-Card Stud.c(154,25): warning C4024: 'royal_flush_in_suit': different types for formal and actual parameter 1
+C:\Users\RG\source\repos\learning\20241031 C\C for Everyone\20241017 C for Everyone 2of2\2.3 Honors TODO\2.3 Honors Seven-Card Stud.c(167,21): warning C4047: 'function': 'const card *' differs in levels of indirection from 'const card **'
+C:\Users\RG\source\repos\learning\20241031 C\C for Everyone\20241017 C for Everyone 2of2\2.3 Honors TODO\2.3 Honors Seven-Card Stud.c(167,21): warning C4024: 'royal_flush': different types for formal and actual parameter 1
+C:\Users\RG\source\repos\learning\20241031 C\C for Everyone\20241017 C for Everyone 2of2\2.3 Honors TODO\2.3 Honors Seven-Card Stud.c(255,24): warning C4047: 'function': 'const card *' differs in levels of indirection from 'card (*)[7]'
+C:\Users\RG\source\repos\learning\20241031 C\C for Everyone\20241017 C for Everyone 2of2\2.3 Honors TODO\2.3 Honors Seven-Card Stud.c(255,24): warning C4024: 'combitation': different types for formal and actual parameter 1
+C:\Users\RG\source\repos\learning\20241031 C\C for Everyone\20241017 C for Everyone 2of2\2.3 Honors TODO\2.3 Honors Seven-Card Stud.c(260,11): warning C4013: 'time' undefined; assuming extern returning int
+  2.3 Honors TODO.vcxproj -> C:\Users\RG\source\repos\learning\20241031 C\C for Everyone\20241017 C for Everyone 2of2\x64\Debug\2.3 Honors TODO.exe

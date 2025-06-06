@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2.3 Honors Seven-Card Stud.c">
+    <ClCompile Include="3.1.2 List of one element code.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
