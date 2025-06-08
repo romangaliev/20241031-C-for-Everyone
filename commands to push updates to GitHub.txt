@@ -1,0 +1,7 @@
+cd..  // until we are in the "C for Everyone" folder where ".git" folder is located
+
+git add .   // this will add updated to the next commit
+
+git commit -m "3.1.2 List of one element code - DONE"
+
+git push -u origin
